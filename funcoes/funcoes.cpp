@@ -26,7 +26,7 @@ void tabuada(int numero) {
 		cout << numero << "x" << i << "=" << (numero * i)<< endl;
 	}
 }
-s
+
 void imprime(string mensagem) {
 	cout << endl;
 	cout << "Mensagem: " << mensagem << endl;
